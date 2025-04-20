@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/akash8540](https://github.com/akash8540)
 
-- 📫 How to reach me **akashchittaur@gmail.com**
+- 📫 How to reach me **akashrimt@outlook.com**
 
 - ⚡ Fun fact **i am happy person**
 
