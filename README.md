@@ -1,4 +1,4 @@
-![logo](frontbg.gif)
+![logo](bg2.gif)
 <h1 align="center">Hi 👋, I'm Akash kumar</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
