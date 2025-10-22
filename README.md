@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Akash kumar</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<img src="https://github.com/akash8540/akash8540/blob/frontbg.gif"  align="right"  alt="coding" width="400" height="400">
+<img src="developer.gif"  align="right"  alt="coding" width="400" height="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash8540&label=Profile%20views&color=0e75b6&style=flat" alt="akash8540" /> </p>
 
