@@ -1,4 +1,4 @@
-![logo](https://github.com/akash8540/akash8540/blob/developer.gif)
+![logo](frontbg.gif)
 <h1 align="center">Hi 👋, I'm Akash kumar</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
