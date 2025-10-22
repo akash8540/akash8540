@@ -1,8 +1,8 @@
-![logo](https://github.com/akash8540/akash8540/blob/main/glasses-lie-laptop-reflecting-light-from-screen-dark.jpg)
+![logo](https://github.com/akash8540/akash8540/blob/developer.gif)
 <h1 align="center">Hi 👋, I'm Akash kumar</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<img src="https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966"  align="right"  alt="coding" width="400" height="400">
+<img src="https://github.com/akash8540/akash8540/blob/frontbg.gif"  align="right"  alt="coding" width="400" height="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash8540&label=Profile%20views&color=0e75b6&style=flat" alt="akash8540" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/akash8540](https://github.com/akash8540)
 
-- 📫 How to reach me **akashrimt@outlook.com**
+- 📫 How to reach me **akashchittaur@gmail.com**
 
 - ⚡ Fun fact **i am happy person**
 
