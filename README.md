@@ -1,6 +1,6 @@
 ![logo](bg2.gif)
 <h1 align="center">Hi 👋, I'm Akash kumar</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
 <img src="developer.gif"  align="right"  alt="coding" width="400" height="400">
 
